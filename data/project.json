@@ -1,21 +1,81 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "llilasbenson",
+    "is_private": false,
+    "title": "Text project",
+    "description": "Sample description",
+    "language": "es",
+    "slug": "workshop-test",
+    "creator": "llilasbenson",
+    "authors": "Albert",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Policía Federal",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Terrorismo de estado",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Junta Militar",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Desaparicion forzada",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reclamos familiares",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Dictadura argentina",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ministerio del Interior",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Junta Militar",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Accion paramilitar",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Delitos de lesa humanidad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Centros clandestinos de detencion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Delitos economicos",
+          "category": "_uncategorized_"
+        }
+      ]
+    },
+    "created_at": "2024-11-14T18:04:36.530Z",
+    "updated_at": "2024-11-14T18:04:36.530Z"
   }
 }
